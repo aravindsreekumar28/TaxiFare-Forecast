@@ -78,11 +78,15 @@ Each step is documented in the notebooks, with explanations for the approaches u
 
 We’d like to acknowledge the efforts of the following contributors:
 
-👨‍💻 Rajib
-👨‍💻 Aravind
-👩‍💻 Srividhya
-👩‍💻 Kavipriya
+- 👨‍💻 **Rajib**
+- 👨‍💻 **Aravind**
+- 👩‍💻 **Srividhya**
+- 👩‍💻 **Kavipriya**
 
 Feel free to reach out to us for questions or insights regarding the project!
 
+---
+
 ⭐ **If you find this project helpful, consider giving it a star on GitHub!**
+
+---
