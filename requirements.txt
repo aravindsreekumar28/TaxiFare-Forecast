@@ -8,6 +8,5 @@ joblib==1.2.0
 nbformat
 os
 streamlit==1.12.1
-joblib==1.1.0
 setuptools>=65.0.0
 wheel
