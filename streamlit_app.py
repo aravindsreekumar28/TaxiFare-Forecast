@@ -30,7 +30,7 @@ relative_path = os.path.join(base_dir, 'Notebooks', 'Data Modelling','model', 'f
 model = joblib.load(relative_path)
 
 # Load the DataFrame
-csv_path = os.path.join(os.path.dirname(__file__), '../../Datasets/preprocessed.csv')
+csv_path = os.path.join(os.path.dirname(base_dir, 'Datasets', 'preprocessed.csv')
 
 # Read the CSV file
 df = pd.read_csv(csv_path)
