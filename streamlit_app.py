@@ -25,9 +25,10 @@ add_css()
 # Get the directory of the current file
 base_dir = os.path.dirname(os.path.abspath(__file__))
 # Construct the relative path
-relative_path = os.path.join(base_dir, 'model', 'fare_prediction_model.pkl')
+relative_path = os.path.join(base_dir, 'Notebooks', 'Data Modelling','model', 'fare_prediction_model.pkl')
 # Load your trained model
 model = joblib.load(relative_path)
+
 # Load the DataFrame
 csv_path = os.path.join(os.path.dirname(__file__), '../../Datasets/preprocessed.csv')
 
