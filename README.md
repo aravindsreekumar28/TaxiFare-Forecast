@@ -82,6 +82,7 @@ We’d like to acknowledge the efforts of the following contributors:
 - 👨‍💻 **Aravind**
 - 👩‍💻 **Srividhya**
 - 👩‍💻 **Kavipriya**
+  
 
 Feel free to reach out to us for questions or insights regarding the project!
 
